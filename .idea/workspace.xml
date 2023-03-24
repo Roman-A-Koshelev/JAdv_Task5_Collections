@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ff9fd292-af53-40f3-b79e-0e09345e051d" name="Changes" comment="Решение Задания №5_Коллекции&#10;Инструкция&#10;Есть входной файл с набором слов, написанных через пробел&#10;Необходимо:&#10;- Прочитать слова из файла.&#10;- Отсортировать в алфавитном порядке.&#10;- Посчитать сколько раз каждое слово встречается в файле&#10;- Вывести статистику на консоль&#10;- Найти слово с максимальным количеством повторений&#10;- Вывести на консоль это слово и сколько раз оно встречается в файле">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task5_Collections.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2NPcYaKa76v0Oq71GFeGurEeveQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\prj\IdeaProjects\IBS\JavaAdvancedCourse\Task5_Collections\data" />
+      <recent name="C:\prj\IdeaProjects\IBS\JavaAdvancedCourse\Task5_Collections" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Task5_Collections" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ff9fd292-af53-40f3-b79e-0e09345e051d" name="Changes" comment="" />
+      <created>1679569206200</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679569206200</updated>
+      <workItem from="1679569208057" duration="21862000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Решение Задания №5_Коллекции&#10;Инструкция&#10;Есть входной файл с набором слов, написанных через пробел&#10;Необходимо:&#10;- Прочитать слова из файла.&#10;- Отсортировать в алфавитном порядке.&#10;- Посчитать сколько раз каждое слово встречается в файле&#10;- Вывести статистику на консоль&#10;- Найти слово с максимальным количеством повторений&#10;- Вывести на консоль это слово и сколько раз оно встречается в файле" />
+    <option name="LAST_COMMIT_MESSAGE" value="Решение Задания №5_Коллекции&#10;Инструкция&#10;Есть входной файл с набором слов, написанных через пробел&#10;Необходимо:&#10;- Прочитать слова из файла.&#10;- Отсортировать в алфавитном порядке.&#10;- Посчитать сколько раз каждое слово встречается в файле&#10;- Вывести статистику на консоль&#10;- Найти слово с максимальным количеством повторений&#10;- Вывести на консоль это слово и сколько раз оно встречается в файле" />
+  </component>
+</project>
